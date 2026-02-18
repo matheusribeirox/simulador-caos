@@ -66,6 +66,7 @@ Pull requests são bem-vindos. Para contribuir:
 
 ## Licença
 Este projeto está sob a licença MIT.
+<img width="1468" height="733" alt="Screenshot_1" src="https://github.com/user-attachments/assets/17de5559-36c2-4017-88fd-4565e6bf0621" />
 
 ## Autor
 Matheus Ribeiro
